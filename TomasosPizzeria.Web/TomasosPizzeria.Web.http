@@ -1,0 +1,6 @@
+@TomasosPizzeria.Web_HostAddress = http://localhost:5094
+
+GET {{TomasosPizzeria.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
